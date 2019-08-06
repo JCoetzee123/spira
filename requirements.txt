@@ -13,6 +13,5 @@ shapely
 lxml
 termcolor
 colorama
-sphinxcontrib-packages
-# sphinxcontrib-napoleon
+sphinxcontrib-napoleon
 # halo
